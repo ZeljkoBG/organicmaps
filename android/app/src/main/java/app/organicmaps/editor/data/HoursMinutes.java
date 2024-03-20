@@ -43,7 +43,9 @@ public class HoursMinutes implements Parcelable
     if (m24HourFormat)
       return StringUtils.formatUsingUsLocale("%02d:%02d", hours, minutes);
 
-    final LocalTime localTime = LocalTime.of((int) hours, (int) minutes);
+    // TODO(AB): Fix bad design: constructor of this class can accept 24 or even higher hours from OSM values.
+    // Formatting a string here with hours outside of 0-23 range causes DateTimeException.
+    final LocalTime localTime = LocalTime.of((int) hours % 24, (int) minutes);
     return localTime.format(DateTimeFormatter.ofPattern("hh:mm a"));
   }
 
