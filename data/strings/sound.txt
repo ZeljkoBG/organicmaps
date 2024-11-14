@@ -31,7 +31,7 @@
     ro = Păstrați la dreapta.
     ru = Держитесь правее.
     sk = Držte sa vpravo.
-    sr = Држите се десно.
+    sr = Држи се десно.
     sv = Håll höger.
     sw = Kaa kuria.
     th = ชิดขวาไว้
@@ -82,7 +82,7 @@
     ro = Virați la dreapta.
     ru = Поверните направо.
     sk = Odbočte doprava.
-    sr = Скрените десно.
+    sr = Скрени десно.
     sv = Sväng höger.
     sw = Zunguka upande wa kulia.
     th = เลี้ยวขวา
@@ -129,7 +129,7 @@
     ro = Virați strâns la dreapta.
     ru = Резко поверните направо.
     sk = Ostro doprava.
-    sr = Оштро десно.
+    sr = Скрени оштро десно.
     sv = Skarpt höger.
     sw = Fanya kulia mkali.
     th = หักมุมขวา
@@ -177,7 +177,7 @@
     ro = Intrați în sensul giratoriu.
     ru = Поверните на кольцо.
     sk = Vojdite na kruhový objazd.
-    sr = Уђите у кружни ток.
+    sr = Уђи у кружни ток.
     sv = Kör in i rondellen.
     sw = Ingia kwenye mzunguko.
     th = เข้าสู่วงเวียน
@@ -232,7 +232,7 @@
     ro = Ieșiți din sensul giratoriu.
     ru = Сверните с кольца.
     sk = Opustite kruhový objazd.
-    sr = Изађите из кружног тока.
+    sr = Изађи из кружног тока.
     sv = Lämna rondellen.
     sw = Toka kwenye mzunguko wa barabara.
     th = ออกจากวงเวียน
@@ -285,7 +285,7 @@
     ro = Păstrați la stânga.
     ru = Держитесь левее.
     sk = Držte sa vľavo.
-    sr = Држите се лево.
+    sr = Држи се леве стране.
     sv = Håll vänster.
     sw = Kaa kushoto.
     th = ชิดซ้ายไว้
@@ -336,7 +336,7 @@
     ro = Virați la stânga.
     ru = Поверните налево.
     sk = Odbočte doľava.
-    sr = Скрените лево.
+    sr = Скрени лево.
     sv = Sväng vänster.
     sw = Zunguka upande wa kushoto.
     th = เลี้ยวซ้าย
@@ -383,7 +383,7 @@
     ro = Virați strâns la stânga.
     ru = Резко поверните налево.
     sk = Ostro doľava.
-    sr = Оштро лево.
+    sr = Скрени оштро лево.
     sv = Skarpt vänster.
     sw = Fanya kushoto mkali.
     th = หักมุมซ้าย
@@ -430,7 +430,7 @@
     ro = Întoarceți-vă o sută optzeci de grade.
     ru = Развернитесь.
     sk = Otočte sa o stoosemdesiat stupňov.
-    sr = Урадите полукружно окретање, када буде могуће.
+    sr = Уради полукружно окретање, када буде могуће.
     sv = Gör en U-sväng.
     sw = Geuka urudi ulikotoka.
     th = กลับรถ
@@ -481,7 +481,7 @@
     ro = Mergeți înainte.
     ru = Двигайтесь прямо.
     sk = Choďte rovno.
-    sr = Наставите право.
+    sr = Настави право.
     sv = Åk rakt framåt.
     sw = Pita kabisa.
     th = ตรงไป
@@ -565,6 +565,7 @@
     ro = pe
     ru = на
     sk = na
+    sr = у улицу
     sv = in på
     sw = kwenye
     th = เข้าสู่
@@ -607,6 +608,7 @@
     ro = Ieșire pe
     ru = Съезд на
     sk = Výjazd na
+    sr = Иди на излаз
     sv = Utgång in på
     sw = Kuondoka kwenye
     th = ทางออก เข้าสู่
@@ -653,7 +655,7 @@
     ro = Veți sosi.
     ru = Вы прибудете в пункт назначения.
     sk = Dorazíte do cieľa.
-    sr = Стижете на одредиште.
+    sr = Стижеш на одредиште.
     sv = Är du framme.
     sw = Utawasili.
     th = คุณจะถึง
@@ -695,7 +697,7 @@
     ro = Ați ajuns.
     ru = Вы прибыли в пункт назначения.
     sk = Dorazili ste do cieľa.
-    sr = Стигли сте.
+    sr = Стигао си на одредиште.
     sv = Du har anlänt.
     sw = Umewasili mwisho wa safari.
     th = คุณมาถึงแล้ว
@@ -1503,7 +1505,7 @@
     ro = Folosiți prima ieșire.
     ru = Сверните на первый съезд.
     sk = Opustite kruhový objazd prvým výjazdom.
-    sr = Изађите на први излаз.
+    sr = Изађи на први излаз.
     sv = Ta första avfarten.
     sw = Ingia barabara ya kwanza ya kutoka.
     th = ออกทางออกที่หนึ่ง
@@ -1557,7 +1559,7 @@
     ro = Folosiți a doua ieșire.
     ru = Сверните на второй съезд.
     sk = Opustite kruhový objazd druhým výjazdom.
-    sr = Изађите на други излаз.
+    sr = Изађи на други излаз.
     sv = Ta andra avfarten.
     sw = Ingia barabara ya pili ya kutoka.
     th = ออกทางออกที่สอง
@@ -1611,7 +1613,7 @@
     ro = Folosiți a treia ieșire.
     ru = Сверните на третий съезд.
     sk = Opustite kruhový objazd tretím výjazdom.
-    sr = Изађите на трећи излаз.
+    sr = Изађи на трећи излаз.
     sv = Ta tredje avfarten.
     sw = Ingia barabara ya tatu ya kutoka.
     th = ออกทางออกที่สาม
@@ -1665,7 +1667,7 @@
     ro = Folosiți a patra ieșire.
     ru = Сверните на четвертый съезд.
     sk = Opustite kruhový objazd štvrtým výjazdom.
-    sr = Изађите на четврти излаз.
+    sr = Изађи на четврти излаз.
     sv = Ta fjärde avfarten.
     sw = Ingia barabara ya nne ya kutoka.
     th = ออกทางออกที่สี่
@@ -1719,7 +1721,7 @@
     ro = Folosiți a cincea ieșire.
     ru = Сверните на пятый съезд.
     sk = Opustite kruhový objazd piatym výjazdom.
-    sr = Изађите на пети излаз.
+    sr = Изађи на пети излаз.
     sv = Ta femte avfarten.
     sw = Ingia barabara ya tano ya kutoka.
     th = ออกทางออกที่ห้า
@@ -1773,7 +1775,7 @@
     ro = Folosiți a șasea ieșire.
     ru = Сверните на шестой съезд.
     sk = Opustite kruhový objazd šiestym výjazdom.
-    sr = Изађите на шести излаз.
+    sr = Изађи на шести излаз.
     sv = Ta sjätte avfarten.
     sw = Ingia barabara ya sita ya kutoka.
     th = ออกทางออกที่หก
@@ -1827,7 +1829,7 @@
     ro = Folosiți a șaptea ieșire.
     ru = Сверните на седьмой съезд.
     sk = Opustite kruhový objazd siedmym výjazdom.
-    sr = Изађите на седми излаз.
+    sr = Изађи на седми излаз.
     sv = Ta sjunde avfarten.
     sw = Ingia barabara ya saba ya kutoka.
     th = ออกทางออกที่เจ็ด
@@ -1881,7 +1883,7 @@
     ro = Folosiți a opta ieșire.
     ru = Сверните на восьмой съезд.
     sk = Opustite kruhový objazd ôsmym výjazdom.
-    sr = Изађите на осми излаз.
+    sr = Изађи на осми излаз.
     sv = Ta åttonde avfarten.
     sw = Ingia barabara ya nane ya kutoka.
     th = ออกทางออกที่แปด
@@ -1935,7 +1937,7 @@
     ro = Folosiți a noua ieșire.
     ru = Сверните на девятый съезд.
     sk = Opustite kruhový objazd deviatym výjazdom.
-    sr = Изађите на девети излаз.
+    sr = Изађи на девети излаз.
     sv = Ta nionde avfarten.
     sw = Ingia barabara ya tisa ya kutoka.
     th = ออกทางออกที่เก้า
@@ -1989,7 +1991,7 @@
     ro = Folosiți a zecea ieșire.
     ru = Сверните на десятый съезд.
     sk = Opustite kruhový objazd desiatym výjazdom.
-    sr = Изађите на десети излаз.
+    sr = Изађи на десети излаз.
     sv = Ta tionde avfarten.
     sw = Ingia barabara ya kumi ya kutoka.
     th = ออกทางออกที่สิบ
@@ -2043,7 +2045,7 @@
     ro = Folosiți a unsprezecea ieșire.
     ru = Сверните на одиннадцатый съезд.
     sk = Opustite kruhový objazd jedenástym výjazdom.
-    sr = Изађите на једанаести излаз.
+    sr = Изађи на једанаести излаз.
     sv = Ta elfte avfarten.
     sw = Ingia barabara ya kumi na moja ya kutoka.
     th = ออกทางออกที่สิบเอ็ด
@@ -3021,7 +3023,7 @@
     ro = Cameră frontală
     ru = Впереди камера
     sk = Pozor, radar!
-    sr = Пажња, радар!
+    sr = Пажња, прекршајна камера!
     sv = Kamera framför
     sw = Kamera Mbele
     th = มีกล้องอยู่ข้างหน้า
