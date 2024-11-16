@@ -31,7 +31,7 @@
     ro = Păstrați la dreapta.
     ru = Держитесь правее.
     sk = Držte sa vpravo.
-    sr = Држите се десно.
+    sr = Скрени благо десно.
     sv = Håll höger.
     sw = Kaa kuria.
     th = ชิดขวาไว้
