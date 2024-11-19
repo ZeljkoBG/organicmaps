@@ -39,6 +39,7 @@
     ro = Înapoi
     ru = Назад
     sk = Späť
+    sr = Nazad
     sv = Tillbaka
     th = กลับ
     tr = Geri
@@ -86,6 +87,7 @@
     ro = Anulare
     ru = Отмена
     sk = Zrušiť
+    sr = Prekid
     sv = Avbryt
     th = ยกเลิก
     tr = İptal
@@ -134,6 +136,7 @@
     ru = Отменить загрузку
     sk = Zrušiť sťahovanie
     sv = Avbryt nedladdning
+    sr = Prekid preuzimanja
     th = ยกเลิกการดาวน์โหลด
     tr = İndirmeyi İptal Et
     uk = Вiдмiнити завантаження
@@ -180,6 +183,7 @@
     ro = Șterge
     ru = Удалить
     sk = Zmazať
+    sr = Obrisati
     sv = Ta bort
     th = ลบ
     tr = Sil
@@ -226,6 +230,7 @@
     ro = Descarcă hărți
     ru = Загрузить карты
     sk = Stiahnuť mapy
+    sr = Preuzimanje mapa
     sv = Ladda ner kartor
     th = ดาวน์โหลดแผนที่
     tr = Harita indir
@@ -273,6 +278,7 @@
     ro = Descărcarea a eșuat. Atinge pentru a încerca din nou.
     ru = Ошибка загрузки. Нажмите, чтобы повторить попытку
     sk = Sťahovanie zlyhalo, skúste to znova.
+    sr = Preuzimanje nije uspelo. Dodirnite pa pokušajte ponovo.
     sv = Nedladdningen misslyckades, tryck för att försöka igen
     th = การดาวน์โหลดล้มเหลว แตะอีกครั้งเพื่อลองใหม่
     tr = İndirme başarısız oldu. Tekrar denemek için dokunun.
@@ -320,6 +326,7 @@
     ro = Se descarcă…
     ru = Загружается…
     sk = Sťahovanie…
+    sr = Preuzima se...
     sv = Laddar ner…
     th = กำลังดาวน์โหลด…
     tr = İndiriliyor…
@@ -368,6 +375,7 @@
     ro = Kilometri
     ru = Километры
     sk = Kilometre
+    sr = Kilometri
     sv = Kilometer
     th = กิโลเมตร
     tr = Kilometre
@@ -415,6 +423,7 @@
     ro = Lasă un comentariu
     ru = Написать отзыв
     sk = Spätná väzba
+    sr = Ostavite recenziju
     sv = Skriv en recension
     th = ให้คำวิจารณ์
     tr = Bir Yorum Bırak
@@ -440,6 +449,7 @@
     lt = MB
     nb = MB
     ru = МБ
+    sr = MB
     th = MB
     tr = MB
     uk = МБ
@@ -460,6 +470,7 @@
     hi = गीगाबाइट
     lt = GB
     ru = ГБ
+    sr = GB
     uk = ГБ
     zh-Hans = GB
     zh-Hant = GB
@@ -503,6 +514,7 @@
     ro = Mile
     ru = Мили
     sk = Míle
+    sr = Milja
     sv = Mile
     th = ไมล์
     tr = Mil
@@ -550,6 +562,7 @@
     ro = Poziția mea
     ru = Мое местоположение
     sk = Moja poloha
+    sr = Moja pozicija
     sv = Min position
     th = ตำแหน่งของฉัน
     tr = Konumum
@@ -597,6 +610,7 @@
     ro = Mai târziu
     ru = Не сейчас
     sk = Neskôr
+    sr = Kasnije
     sv = Senare
     th = ภายหลัง
     tr = Daha sonra
@@ -644,6 +658,7 @@
     ro = Caută
     ru = Поиск
     sk = Hľadať
+    sr = Pretraga
     sv = Sök
     th = ค้นหา
     tr = Ara
@@ -691,6 +706,7 @@
     ro = Caută pe hartă
     ru = Поиск на карте
     sk = Prehľadať mapu
+    sr = Pretraga mape
     sv = Sök karta
     th = ค้นหาแผนที่
     tr = Haritada Ara
@@ -738,6 +754,7 @@
     ro = Da
     ru = Да
     sk = Áno
+    sr = Da
     sv = Ja
     th = ใช่
     tr = Evet
@@ -785,6 +802,7 @@
     ro = În prezent, toate serviciile de localizare pentru acest dispozitiv sau aplicație sunt dezactivate. Le poți activa din setări.
     ru = Геолокация выключена в настройках устройства. Пожалуйста, включите её для удобного использования программы.
     sk = Aktuálne máte všetky možnosti pre určovanie polohy vypnuté. Prosím, povoľte ich v Nastaveniach.
+    sr = Trenutno imate onemogućene sve usluge lokacije za ovaj uređaj ili aplikaciju. Omogućite ih u Podešavanjima.
     sv = Du har inaktiverat alla platstjänster för denna enhet eller app. Vänligen aktivera dem i Inställningar.
     th = ในปัจจุบันนี้มีการปิดการใช้งานการบริการตำแหน่งที่ตั้งสำหรับอุปกรณ์หรือแอปพลิเคชันนี้ โปรดเปิดใช้งานในการตั้งค่า
     tr = Şu anda bu cihaz veya uygulama için tüm Konum Hizmetleri devre dışı bırakılmış. Lütfen bunu ayarlardan etkinleştirin.
@@ -832,6 +850,7 @@
     ro = Arată pe hartă
     ru = Показать на карте
     sk = Ukázať na mape
+    sr = Prikazati na mapi
     sv = Visa på kartan
     th = แสดงบนแผนที่
     tr = Haritada göster
@@ -879,6 +898,7 @@
     ro = Descarcă harta
     ru = Загрузить карту
     sk = Stiahnite si mapu
+    sr = Preuzmite mape
     sv = Ladda ner karta
     th = ดาวน์โหลดแผนที่
     tr = Haritayı İndir
@@ -926,6 +946,7 @@
     ro = Descărcarea a eșuat
     ru = Ошибка загрузки
     sk = Sťahovanie zlyhalo
+    sr = Preuzimanje nije uspelo
     sv = Nedladdningen misslyckades
     th = การดาวน์โหลดล้มเหลว
     tr = İndirme başarısız oldu
@@ -973,6 +994,7 @@
     ro = Mai încearcă
     ru = Попробуйте ещё раз
     sk = Skúsiť znova
+    sr = Pokušajte ponovo
     sv = Försök igen
     th = ลองอีกครั้ง
     tr = Tekrar Dene
@@ -1019,6 +1041,7 @@
     ro = Despre Organic Maps
     ru = Про Organic Maps
     sk = O aplikácii Organic Maps
+    sr = O aplikaciji
     sv = Om Organic Maps
     th = เกี่ยวกับ Organic Maps
     tr = Organic Maps Hakkında
@@ -1064,6 +1087,7 @@
     ro = Gratuit pentru toată lumea, făcut cu dragoste
     ru = Бесплатно для всех, сделано с любовью
     sk = Zadarmo pre každého, vyrobené s láskou
+    sr = Besplatno za sve, napravljeno s ljubavlju
     sv = Gratis för alla, skapad med kärlek
     sw = Bure kwa kila mtu, iliyotengenezwa na upendo
     th = ฟรีสำหรับทุกคนทำด้วยความรัก
@@ -1110,6 +1134,7 @@
     ro = • Fără reclame, fără urmărire, fără colectare de date
     ru = • Без рекламы, без трекинга, без слежки
     sk = • Žiadne reklamy, žiadne sledovanie, žiadny zber údajov
+    sr = • Nema oglasa, nema praćenja, nema prikupljanja podataka
     sv = • Inga annonser, ingen spårning, ingen datainsamling
     sw = • Hakuna matangazo, hakuna ufuatiliaji, hakuna mkusanyiko wa data
     th = • ไม่มีโฆษณาไม่มีการติดตามไม่มีการรวบรวมข้อมูล
@@ -1158,6 +1183,7 @@
     ro = • Nu consumă baterie, funcționează offline
     ru = • Не разряжает батарею, работает в автономном режиме
     sk = • Žiadne vybíjanie batérie, funguje v režime offline
+    sr = • Nema pražnjenja baterije, radi bez interneta
     sv = • Ingen batteriförbrukning, fungerar offline
     sw = • Hakuna betri kuisha, inafanya kazi nje ya mtandao
     th = • ไม่มีแบตเตอรี่หมด ทำงานแบบออฟไลน์
@@ -1205,6 +1231,7 @@
     ro = • Rapid, minimalist, dezvoltat de comunitate
     ru = • Быстрые, минималистичные, разработанные сообществом
     sk = • Rýchly, minimalistický, vyvinutý komunitou
+    sr = • Brz, minimalističan, razvijen od strane zajednice
     sv = • Snabb, minimalistisk, utvecklad av communityn
     sw = • Haraka, minimalist, iliyotengenezwa na jumuiya
     th = • รวดเร็ว เรียบง่าย พัฒนาโดยชุมชน
@@ -1250,6 +1277,7 @@
     ro = Aplicație open-source creată de entuziaști și voluntari.
     ru = Приложение с открытым исходным кодом, созданное энтузиастами и волонтёрами.
     sk = Aplikácia s otvoreným zdrojovým kódom vytvorená nadšencami a dobrovoľníkmi.
+    sr = Aplikacija otvorenog koda koju su kreirali entuzijasti i volonteri.
     sv = Öppen källkod-app skapad av entusiaster och frivilliga.
     sw = Maombi ya chanzo-wazi iliyoundwa na wanaovutia na wanaojitolea.
     th = แอปพลิเคชันโอเพนซอร์ซที่สร้างขึ้นโดยผู้ที่ชื่นชอบและอาสาสมัคร
@@ -1297,6 +1325,7 @@
     ro = Setări de locație
     ru = Настройки местоположения
     sk = Nastavenia polohy
+    sr = Podešavanje lokacije
     sv = Platsinställningar
     sw = Mipangilio ya mahali
     th = การตั้งค่าตำแหน่ง
@@ -1344,6 +1373,7 @@
     ro = Închide
     ru = Закрыть
     sk = Zavrieť
+    sr = Zatvoriti
     sv = Stäng
     th = ปิด
     tr = Kapat
@@ -1390,6 +1420,7 @@
     ro = Această aplicație necesită accelerarea hardware OpenGL. Din păcate, dispozitivul tău nu este compatibil.
     ru = Для работы приложения необходим аппаратно ускоренный OpenGL. К сожалению, ваше устройство не поддерживается.
     sk = Je vyžadovaná hardwarová akcelerácia OpenGL. Bohužial, vaše zariadenie nie je podporované.
+    sr = OpenGL hardversko ubrzanje je potrebno. Nažalost, vaš uređaj nije podržan.
     sv = Hårdvaruaccelererad OpenGL krävs. Din enhet stöds tyvärr inte.
     th = จำเป็นต้องใช้ฮาร์ดแวร์ที่เพิ่มความเร็ว OpenGL โชคไม่ดีที่อุปกรณ์ของคุณไม่รองรับ
     tr = Hızlı donanıma sahip bir OpenGL gerekli. Ne yazık ki cihazınız desteklenmiyor.
@@ -1436,6 +1467,7 @@
     ro = Descarcă
     ru = Загрузить
     sk = Stiahnuť
+    sk = Preuzimanje
     sv = Ladda ner
     th = ดาวน์โหลด
     tr = İndir
@@ -1482,6 +1514,7 @@
     ro = Deconectează cablul USB sau introdu un card de memorie pentru a utiliza Organic Maps
     ru = Отключите USB кабель или вставьте SD-карту
     sk = Prosím, odpojte USB kábel alebo vložte pamäťovú kartu pre použitie s Organic Maps
+    sr = Isključite USB kabl ili stavite memorijsku karticu za upotrebu sa Organic Maps
     sv = Vänligen koppla ifrån USB-kabeln eller sätt in ett minneskort för att använda Organic Maps
     th = โปรดยกเลิกการเชื่อมต่อสาย USB หรือใส่การ์ดหน่วยความจำเพื่อใช้ Organic Maps
     tr = Organic Maps’i kullanabilmek için lütfen USB kablosunun bağlantısını kesin veya hafıza kartı takın
@@ -1529,6 +1562,7 @@
     ro = Spațiul de stocare de pe cardul SD/memoria USB este insuficient pentru a putea utiliza aplicația
     ru = Недостаточно свободного места на SD карте/в памяти устройства для использования программы
     sk = Prosím, uvoľnite najprv miesto na SD karte/USB úložisku
+    sr = Prvo oslobodite prostor na SD kartici/USB memoriji
     sv = Vänligen frigör utrymme på SD-kortet/USB-lagringen först för att använda appen.
     th = โปรดเพิ่มพื้นที่บางส่วนบนการ์ด SD /พื้นที่จัดเก็บ USB ก่อนเพื่อใช้แอป
     tr = Uygulamayı kullanabilmek için lütfen SD kart/USB depolama aygıtında biraz alan boşaltın
@@ -1575,6 +1609,7 @@
     ro = Înainte de a începe, trebuie descărcată harta generală a lumii în dispozitivul tău.\nSe vor descărca %@.
     ru = Перед началом работы разрешите нам загрузить общую карту мира на ваше устройство.\nЭто потребует %@ данных.
     sk = Skôr ako začnete, bude treba stiahnuť základnú mapu sveta.\nZaberie to %@.
+    sr = Pre nego što počnete, moraćete skinuti osnovnu mapu sveta.\nTrebaće vam %@.
     sv = Innan du startar, låt oss ladda ner den allmäna världskartan på din enhet.\nDen behöver %@ data.
     th = ก่อนที่คุณจะเริ่มต้น โปรดให้เราดาวน์โหลดแผนที่โลกลงในอุปกรณ์ของคุณ\nจำเป็นต้องใช้ %@ ของข้อมูล
     tr = Başlamadan önce cihazınıza genel dünya haritasını indirelim.\n%@ alan gerekli.
@@ -1621,6 +1656,7 @@
     ro = Mergi la hartă
     ru = Перейти на карту
     sk = Prejsť na mapu
+    sr = Idi na mapu
     sv = Gå till karta
     th = ไปยังแผนที่
     tr = Haritaya Git
@@ -1667,6 +1703,7 @@
     ro = Se descarcă %@. Acum poți\ntrece la hartă.
     ru = Пока загружается %@,\nвы можете пользоваться картой.
     sk = Sťahovanie %@. Teraz môžete\nprejsť na mapu.
+    sr = Preuzimanje %@. Sada možete\npreći na mapu.
     sv = Laddar ner %@. Du kan nu\n fortsätta till kartan.
     th = กำลังดาวน์โหลด %@ ตอนนี้คุณสามารถ\nดำเนินการต่อไปยังแผนที่
     tr = %@ indiriliyor. Şimdi haritaya\ngidebilirsiniz.
@@ -1713,6 +1750,7 @@
     ro = Descarci %@?
     ru = Загрузить %@?
     sk = Stiahnuť %@?
+    sr = Preuzimanje %@?
     sv = Ladda ner %@?
     th = ดาวน์โหลด %@?
     tr = %@ indir?
@@ -1759,6 +1797,7 @@
     ro = Actualizezi %@?
     ru = Обновить %@?
     sk = Aktualizovať %@?
+    sr = Ažuriranje %@?
     sv = Uppdatera %@?
     th = อัปเดต %@?
     tr = %@ güncelle?
@@ -1806,6 +1845,7 @@
     ro = Pauză
     ru = Приостановить
     sk = Pauza
+    sr = Pauza
     sv = Pausa
     th = หยุดชั่วคราว
     tr = Duraklat
@@ -1853,6 +1893,7 @@
     ro = Continuă
     ru = Продолжить
     sk = Pokračovať
+    sr = Nastaviti
     sv = Fortsätt
     th = ดำเนินการต่อ
     tr = Devam
@@ -1900,6 +1941,7 @@
     ro = Descărcarea %@ a eșuat
     ru = Не удалось загрузить %@
     sk = Sťahovanie zlyhalo: %@
+    sr = Preuzimanje nije uspelo: %@
     sv = %@ nedladdningen misslyckades
     th = การดาวน์โหลด %@ ล้มเหลว
     tr = %@ indirme işlemi başarısız oldu
@@ -1947,6 +1989,7 @@
     ro = Adaugă o listă nouă
     ru = Добавить список
     sk = Pridať novú skupinu záložiek
+    sr = Dodajte na Novu listu
     sv = Lägg till ny samling
     th = เพิ่มชุดใหม่
     tr = Yeni Liste Ekle
@@ -1993,6 +2036,7 @@
     ro = Denumirea listei
     ru = Название списка меток
     sk = Meno záložky
+    sr = Ime liste sa Obeleživačima
     sv = Bokmärkessamlingens namn
     th = ชื่อของชุดบุ๊กมาร์ก
     tr = Yer İmi Listesi Adı
@@ -2038,6 +2082,7 @@
     ro = Liste cu locuri preferate
     ru = Списки меток
     sk = Skupiny záložiek
+    sr = Ime liste Markera
     sv = Bokmärkessamlingar
     th = ชุดของบุ๊กมาร์ก
     tr = Yer İmi Listeleri
@@ -2084,6 +2129,7 @@
     ro = Locuri preferate
     ru = Метки
     sk = Záložky
+    sr = Markeri
     sv = Bokmärken
     th = บุ๊กมาร์ก
     tr = Yer İmleri
@@ -2130,6 +2176,7 @@
     ro = Locuri preferate și trasee
     ru = Метки и треки
     sk = Záložky a stopy
+    sr = Markeri i Trase
     sv = Bokmärken och rutter
     th = บุ๊กมาร์กและการติดตาม
     tr = Yer İmleri ve Kayıtlı Rotalar
@@ -2177,6 +2224,7 @@
     ro = Locurile mele
     ru = Мои Метки
     sk = Moje miesta
+    sr = Moja mesta
     sv = Mina Platser
     th = สถานที่ของฉัน
     tr = Yerlerim
@@ -2224,6 +2272,7 @@
     ro = Denumire
     ru = Название
     sk = Názov
+    sr = Naziv
     sv = Namn
     th = ชื่อ
     tr = Adı
@@ -2272,6 +2321,7 @@
     ro = Adresă
     ru = Адрес
     sk = Adresa
+    sr = Adrese
     sv = Adress
     sw = Anwani
     th = ที่อยู่
