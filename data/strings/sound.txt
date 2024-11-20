@@ -523,7 +523,7 @@
     ro = Ieșire.
     ru = Съезд.
     sk = Použite výjazd.
-    sr = Излаз.
+    sr = Изађите.
     sv = Utgång.
     sw = Kuondoka.
     th = ทางออก.
