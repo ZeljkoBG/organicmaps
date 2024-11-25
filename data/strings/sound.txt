@@ -129,7 +129,7 @@
     ro = Virați strâns la dreapta.
     ru = Резко поверните направо.
     sk = Ostro doprava.
-    sr = Оштро десно.
+    sr = Скрените оштро лево.
     sv = Skarpt höger.
     sw = Fanya kulia mkali.
     th = หักมุมขวา
