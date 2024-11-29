@@ -523,7 +523,7 @@
     ro = Ieșire.
     ru = Съезд.
     sk = Použite výjazd.
-    sr = Искључите се.
+    sr = Идите на искључење.
     sv = Utgång.
     sw = Kuondoka.
     th = ทางออก.
@@ -608,7 +608,7 @@
     ro = Ieșire pe
     ru = Съезд на
     sk = Výjazd na
-    sr = Изађите на излаз
+    sr = Идите на излаз
     sv = Utgång in på
     sw = Kuondoka kwenye
     th = ทางออก เข้าสู่
@@ -697,7 +697,7 @@
     ro = Ați ajuns.
     ru = Вы прибыли в пункт назначения.
     sk = Dorazili ste do cieľa.
-    sr = Стигли сте.
+    sr = Стигли сте на одредиште.
     sv = Du har anlänt.
     sw = Umewasili mwisho wa safari.
     th = คุณมาถึงแล้ว
