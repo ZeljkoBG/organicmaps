@@ -363,7 +363,7 @@
     ro = Aeroport
     ru = Международный аэропорт
     sk = Medzinárodné letisko
-    sr = Интернационални аеродром
+    sr = Међународни аеродром
     sv = Flygplats
     th = สนามบิน
     tr = Uluslararası Havalimanı
