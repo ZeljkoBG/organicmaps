@@ -1458,7 +1458,7 @@
     ro = Stație încărcare
     ru = Зарядная станция
     sk = Dobíjacia stanica
-    sr = Станица за пуњење ЕВ
+    sr = Станица за напајање ЕВ
     sv = Laddstation
     th = สถานีชาร์จ
     tr = Şarj İstasyonu
@@ -1500,7 +1500,7 @@
     ro = Stație de încărcare pentru biciclete
     ru = Станция зарядки велосипедов
     sk = Nabíjacia stanica pre bicykle
-    sr = Станица за пуњење бицикла
+    sr = Станица за напајање бицикла
     sv = Laddningsstation för cykel
     sw = Kituo cha Kuchaji Baiskeli
     th = สถานีชาร์จจักรยาน
@@ -1543,7 +1543,7 @@
     ro = Stație de încărcare autoturisme
     ru = Зарядная станция для автомобилей
     sk = Nabíjacia stanica pre motorové vozidlá
-    sr = Станица за пуњење аутомобила
+    sr = Станица за напајање аутомобила
     sv = Laddningsstation för bilar
     sw = Kituo cha Kuchaji Magari
     th = สถานีชาร์จรถยนต์
